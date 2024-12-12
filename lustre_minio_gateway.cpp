@@ -8,7 +8,7 @@ Gateway between Lustre and MinIO:
     - MinIO Gateway Mode enables seamless translation of S3 commands to POSIX.
 */
 
-#include <miniocpp/client.h> // https://github.com/minio/minio-cpp
+#include <minio-cpp/"include/miniocpp/client.h> // https://github.com/minio/minio-cpp
 #include <fstream>
 #include <iostream>
 #include <string>
